@@ -1,0 +1,17 @@
+{
+  "name": "Spotify Anti-Pause",
+  "description": "Stops Spotify from pausing your music if you're talking for more than 30 seconds or if you're streaming the Spotify app.",
+  "version": "1.0.0",
+  "author": {
+      "name": "Toasty",
+      "id": "255515821541949440"
+  },
+  "id": "SpotifyAntiPause",
+  "support": "NDzjMB2WhR",
+  "donations": [
+    {
+      "name": "Ko-fi",
+      "link": "https://ko-fi.com/slice"
+    }
+  ]
+}
